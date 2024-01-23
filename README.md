@@ -14,60 +14,25 @@ At Chainwave, we believe in a future where blockchain technology is integral to 
 - **Educate:** To share our knowledge and insights, fostering a community of informed blockchain enthusiasts.
 - **Collaborate:** To nurture strong partnerships and build a network of like-minded pioneers in the blockchain space.
 
-## :trophy: Achievements
+### My GitHub Stats
 
-- **[Project or Milestone Name]** - A brief description of the achievement or project outcome.
-- **[Award or Recognition]** - Details about any awards or recognitions your team has received.
-- **[Impactful Collaboration]** - Information about significant collaborations or partnerships.
+<a href="http://www.github.com/kattlover99"><img src="https://github-readme-stats.vercel.app/api?username=kattlover99&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Kattlover's GitHub stats" /></a>
 
-## :ledger: Our Projects
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Here's a sneak peek of our latest projects. For a detailed look, dive into our repositories!
+# Recently Improved Techs
+- [DenoJS](https://deno.com)
+- [HoneypotJS for Honeypot Detector](https://honeypot.is/)
+- [BunJS](https://bun.sh)
+- [Segment Anything(AI)](https://segment-anything.com)
 
-- **[Sei Blockchain Project 1]**
-  > Brief project description. [Learn more](link-to-repo-or-project-page)
- 
-- **[Solana Project 1]**
-  > Brief project description. [Learn more](link-to-repo-or-project-page)
-
-- **[Ethereum Project 1]**
-  > Brief project description. [Learn more](link-to-repo-or-project-page)
-
-## :writing_hand: From Our Blog
-
-Stay updated with our latest insights on blockchain technology:
-
-### Sei Blockchain Insights
-- **[Blog Title 1]** - [Read here](link-to-blog-post)
-- **[Blog Title 2]** - [Read here](link-to-blog-post)
-
-### Solana Musings
-- **[Blog Title 1]** - [Read here](link-to-blog-post)
-- **[Blog Title 2]** - [Read here](link-to-blog-post)
-
-### Thought Leadership Articles
-- **[Article Title 1]** - [Read here](link-to-article)
-- **[Article Title 2]** - [Read here](link-to-article)
-
-## :handshake: Connect with Us
-
-Interested in what you see? Reach out to discuss potential collaborations, learn more about our work, or simply connect!
-
-- :email: Email: [your-email@chainwave.com](mailto:your-email@chainwave.com)
-- :bird: Twitter: [@Chainwave](link-to-twitter)
-- :office: LinkedIn: [Chainwave](link-to-linkedin)
-- :globe_with_meridians: Website: [chainwave.com](link-to-website)
-
-## :heart: Contributing
-
-Passionate about blockchain? Looking to contribute? We value your interest! Here’s how you can become a part of our journey:
-
-- Check our [`CONTRIBUTING.md`](link-to-contributing-file) for guidelines on how to contribute.
-- Take a look at our [`issues`](link-to-issues) to find something you can help with.
-
-## :scroll: License
-
-Our work is bound by the [MIT License](link-to-license-file), ensuring it remains free and open for the community to build upon. 
+# Recently Read Acticles
+- [A Golang based simple, easy-to-use, elegant open-source Home Cloud system](https://golang.ch/a-golang-based-simple-easy-to-use-elegant-open-source-home-cloud-system/?ref=dailydev)
+- [Leveraging React Render Props for Flexible Component Composition](https://www.dhiwise.com/post/leveraging-react-render-props-for-flexible-component-composition)
+- [AI for Game Development](https://huggingface.co/blog/ml-for-games-1?ref=dailydev)
+- [An NFT without a Blockchain. No gas fees. No Eth. No gatekeepers](https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/?ref=dailydev)
 
 ---
 
