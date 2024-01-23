@@ -30,10 +30,11 @@ At Chainwave, we believe in a future where blockchain technology is integral to 
 - [What Are NFT Wearables: Top 10 Fashion Brands for the Metaverse](https://blockchainmagazine.net/what-are-nft-wearables-top-10-fashion-brands-for-the-metaverse/)
 
 # Recently Read Acticles
-- [A Golang based simple, easy-to-use, elegant open-source Home Cloud system](https://golang.ch/a-golang-based-simple-easy-to-use-elegant-open-source-home-cloud-system/?ref=dailydev)
-- [Leveraging React Render Props for Flexible Component Composition](https://www.dhiwise.com/post/leveraging-react-render-props-for-flexible-component-composition)
-- [AI for Game Development](https://huggingface.co/blog/ml-for-games-1?ref=dailydev)
-- [An NFT without a Blockchain. No gas fees. No Eth. No gatekeepers](https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/?ref=dailydev)
+- [How Did NFTs Perform in 2023? - Spotlight](https://www.altcoinbuzz.io/spotlight/how-did-nfts-perform-in-2023/)
+- [Sei Network's Surge Rockets SEI Up The Industry Ladder](https://nftnewstoday.com/2024/01/15/sei-networks-surge-rockets-sei-up-the-industry-ladder/)
+- [New Blockchain 2X Faster than Solana ($SEI) - YouTube](https://www.youtube.com/watch?v=7qoJaHkz3-o)
+- [Michael Woolery: NFT Photography Interview](https://www.nftculture.com/nft-news/michael-woolery-nft-photography-interview/)
+- [Sei, Blockchain Designed for Trading, Goes Live but 'Frustration' Mounts Over Airdrop](https://www.coindesk.com/tech/2023/08/16/sei-blockchain-designed-for-trading-goes-live-but-frustration-mounts-over-airdrop/)
 
 ---
 
