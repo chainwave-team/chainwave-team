@@ -1,6 +1,6 @@
 # Welcome to Chainwave's Hub :chains:
 
-![Chainwave Banner](link-to-your-banner-image)
+![Chainwave Banner]('./assets/banner.png')
 
 Welcome to the official GitHub page of the Chainwave team! We are at the forefront of blockchain innovation, meticulously crafting projects that push the boundaries of NFTs and decentralized applications. Our journey through Solana, Ethereum, and now the Sei blockchain, has been nothing short of adventurous. Dive into our world where code meets creativity.
 
