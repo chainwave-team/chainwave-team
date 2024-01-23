@@ -1,4 +1,4 @@
-# Welcome to Chainwave's Hub :chains:
+# Welcome to Chainwave's Team :chains:
 
 ![Chainwave Banner](assets/banner.png)
 
