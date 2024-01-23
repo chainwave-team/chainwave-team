@@ -24,10 +24,10 @@ At Chainwave, we believe in a future where blockchain technology is integral to 
 <!-- BLOG-POST-LIST:END -->
 
 # Recently Improved Techs
-- [DenoJS](https://deno.com)
-- [HoneypotJS for Honeypot Detector](https://honeypot.is/)
-- [BunJS](https://bun.sh)
-- [Segment Anything(AI)](https://segment-anything.com)
+- [2024: THE YEAR OF ALTERNATIVE LAYER 1S RISING IN THE NFT REALM – SOL, TEZOS, AND SEI LEAD THE CHARGE](https://www.nftculture.com/nft-news/2024-the-year-of-alternative-layer-1s-rising-in-the-nft-realm-sol-tezos-and-sei-lead-the-charge/)
+- [EXPLORING SOLANA: A NEW ERA IN BLOCKCHAIN TECHNOLOGY](https://nftartwithlauren.com/exploring-solana/)
+- [Wallets, NFTs and Social Being Built on the Sei Blockchain](https://heybeluga.com/articles/sei-projects/)
+- [What Are NFT Wearables: Top 10 Fashion Brands for the Metaverse](https://blockchainmagazine.net/what-are-nft-wearables-top-10-fashion-brands-for-the-metaverse/)
 
 # Recently Read Acticles
 - [A Golang based simple, easy-to-use, elegant open-source Home Cloud system](https://golang.ch/a-golang-based-simple-easy-to-use-elegant-open-source-home-cloud-system/?ref=dailydev)
