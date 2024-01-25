@@ -21,7 +21,7 @@ At Chainwave, we believe in a future where blockchain technology is integral to 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-[ChainWave Team Website https://www.chainwave.site/] (https://www.chainwave.site/)
+[ChainWave Team Website https://www.chainwave.site/] (https://chainwave.site/)
 
 <!-- BLOG-POST-LIST:END -->
 
